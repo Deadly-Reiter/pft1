@@ -16,5 +16,5 @@ int	ft_strlen(char *str)
 int	main(void)
 {
 	char src[] = "Fuck off";
-	printf("%d", ft_strlen(src));
+	printf("%d\n", ft_strlen(src));
 }
